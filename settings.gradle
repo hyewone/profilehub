@@ -1,0 +1,7 @@
+rootProject.name = 'profile_box'
+include ':profile-box-api-user'
+include ':profile-box-api-admin'
+include ':profile-box-comm'
+include ':profile-box-terraform'
+include ':profile-box-helm'
+//include ':msa:profile-box-front'
