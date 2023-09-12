@@ -23,5 +23,4 @@
 <img src="https://aerial-dessert-41a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2541db43-ed29-4354-b92c-1ec67cfbdcaa%2FUntitled.png?table=block&id=31227e84-34c7-4b6f-83ec-64db523bb9e9&spaceId=a1eed9a8-a823-4016-b506-b2ae59044a8a&width=2000&userId=&cache=v2"></img>
 
 ## BE API 명세
-<img src="images/Untitled.png"></img>## 
-<img src="images/Untitled (1).png"></img>
+<img src="images/be-api-swagger.png"></img>
