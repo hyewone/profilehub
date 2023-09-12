@@ -24,3 +24,6 @@
 
 ## BE API 명세
 <img src="images/be-api-swagger.png"></img>
+
+## Monitoring
+<img src="images/grafana.png"></img>
