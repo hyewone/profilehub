@@ -12,9 +12,10 @@
 
 ## 프로젝트 소개
 
-## 개발 환경
+## 주요 기능
 
-## 아키텍처
+## 개발 환경 및 아키텍처
+
 
 ## 네트워크 아키텍처
 <img src="https://aerial-dessert-41a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b860467-5cb0-4e7b-9af1-36656bae4351%2FUntitled.png?table=block&id=6a202542-2248-4dc4-8ed6-7d5fc76dc33e&spaceId=a1eed9a8-a823-4016-b506-b2ae59044a8a&width=2000&userId=&cache=v2"></img>
