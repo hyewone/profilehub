@@ -3,6 +3,7 @@
 ## 목차
 - [프로젝트 소개](#)
   - ~ 이런거고 ~ 지속 개발하여 ~ 현재는 이렇습니다~
+- [주요 기능](#)
 - [개발 환경](#)
   - 이런거 저런거 썼습니다~
 - [아키텍처](#)
@@ -14,6 +15,10 @@
 
 
 ## 주요 기능
+<img src="images/KakaoTalk_Video_2023-09-22-12-34-03.gif"></img>
+<img src="images/KakaoTalk_Video_2023-09-22-12-41-44.gif"></img>
+<img src="images/KakaoTalk_Video_2023-09-22-12-44-21.gif"></img>
+<img src="images/_talkv_wt5pKFwPof_6Jyp2iWBvqKz6idu0R1Nck_talkv_high.gif"></img>
 
 ## 개발 환경 및 아키텍처
 <img src="images/devops.png"></img>
