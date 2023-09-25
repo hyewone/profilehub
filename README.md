@@ -57,6 +57,7 @@
 
 ### 전체 아키텍처
 
+<img src="images/archi.png"></img>
 </br>
 
 ### 네트워크 아키텍처
