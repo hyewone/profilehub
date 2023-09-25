@@ -51,7 +51,7 @@
 | Auth API | JAVA | Tomcat, SpringSecurity, Spring WebMvc, JPA, Swagger, JWT, OAuth, PostgreSql |
 | User API | JAVA | Tomcat, SpringSecurity, Spring WebMvc, JPA, Swagger, AWS SDK, PostgreSql |
 | Chat API | JAVA | Netty, SpringSecurity, Spring WebFlux, JPA, Swagger, MongoDB   |
-| Front | javascript | React |
+| Front | javascript | React, Redux |
 
 </br>
 
