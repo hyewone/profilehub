@@ -6,7 +6,7 @@
 - [프로젝트 소개](#project-introduction)
 - [주요 기능](#main-function)
 - [개발 환경 및 아키텍처](#development-environment)
-- [BE API 명세](#cicd-pipeline)
+- [BE API 명세](#swagger)
 - [CI/CD 파이프라인](#cicd-pipeline)
 - [모니터링](#monitoring)
   
