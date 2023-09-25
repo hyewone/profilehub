@@ -67,7 +67,7 @@
 
 <a name="swagger"></a>
 ## BE API 명세
-<img src="images/be-api-swagger.png"></img>
+<img src="images/swagger.png"></img>
 
 </br>
 
