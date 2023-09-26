@@ -4,6 +4,7 @@
 
 ## 목차
 - [프로젝트 소개](#project-introduction)
+- [깃 레포지토리](#git-repo)
 - [주요 기능](#main-function)
 - [개발 환경 및 아키텍처](#development-environment)
 - [BE API 명세](#swagger)
@@ -22,6 +23,20 @@
 
 </br>
 
+<a name="git-repo"></a>
+## 깃 레포지토리
+| 레포지토리 | 역할 | 
+|----------|----------|
+| [profilehub-api-auth](https://github.com/hyewone/profilehub-api-auth) | BE) 인증, 인가, JWT 토큰 발행 |
+| [profilehub-api-user](https://github.com/hyewone/profilehub-api-user) | BE) 프로필, 작품 공고, 좋아요, 지원 |
+| [profilehub-api-chat](https://github.com/hyewone/profilehub-api-chat) | 채팅 |
+| [profilehub-comm](https://github.com/hyewone/profilehub-comm) | BE) 공통 Entity, Repository, Util | 
+| [profilehub-frontend](https://github.com/hyewone/profilehub-frontend) | FE) 화면 |
+| [profilehub-gitops](https://github.com/hyewone/profilehub-gitops) | ArgoCD가 해당 레포와 Sync를 맞춰 클러스터에 배포 |
+| [profilehub-terraform](https://github.com/hyewone/profilehub-terraform) | AWS 리소스 IaC 관리 |
+
+
+</br>
 
 <a name="main-function"></a>
 ## 주요 기능
