@@ -61,7 +61,7 @@
 </br>
 
 ### 서비스 개발 환경
-| 서비스 | Dev Language | DevTools |
+| 서비스 | Dev Language | DevTools |
 |----------|----------|----------|
 | Auth API | JAVA | Tomcat, SpringSecurity, Spring WebMvc, JPA, Swagger, JWT, OAuth, PostgreSql |
 | User API | JAVA | Tomcat, SpringSecurity, Spring WebMvc, JPA, Swagger, AWS SDK, PostgreSql |
