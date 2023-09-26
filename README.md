@@ -27,11 +27,11 @@
 ## 깃 레포지토리
 | 레포지토리 | 역할 | 
 |----------|----------|
-| [profilehub-api-auth](https://github.com/hyewone/profilehub-api-auth) | BE) 인증, 인가, JWT 토큰 발행 |
-| [profilehub-api-user](https://github.com/hyewone/profilehub-api-user) | BE) 프로필, 작품 공고, 좋아요, 지원 |
+| [profilehub-api-auth](https://github.com/hyewone/profilehub-api-auth) | 인증, 인가, JWT 토큰 발행 |
+| [profilehub-api-user](https://github.com/hyewone/profilehub-api-user) | 프로필, 작품 공고, 좋아요, 지원 |
 | [profilehub-api-chat](https://github.com/hyewone/profilehub-api-chat) | 채팅 |
-| [profilehub-comm](https://github.com/hyewone/profilehub-comm) | BE) 공통 Entity, Repository, Util | 
-| [profilehub-frontend](https://github.com/hyewone/profilehub-frontend) | FE) 화면 |
+| [profilehub-comm](https://github.com/hyewone/profilehub-comm) | 공통 Entity, Repository, Util | 
+| [profilehub-frontend](https://github.com/hyewone/profilehub-frontend) | 화면 |
 | [profilehub-gitops](https://github.com/hyewone/profilehub-gitops) | ArgoCD가 해당 레포와 Sync를 맞춰 클러스터에 배포 |
 | [profilehub-terraform](https://github.com/hyewone/profilehub-terraform) | AWS 리소스 IaC 관리 |
 
